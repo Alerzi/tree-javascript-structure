@@ -17,6 +17,7 @@ What you will be able to do:
 - include structure file in html for default loading;
 - save trees to the server via API;
 - connection and use in the frameworks occurs through a regular script tag, while the work will occur with the regular DOM Javascript, bypassing the DOM of the framework;
+
 In the folder - script, demo, documentation. All images are included.
 
 How it works video - https://www.youtube.com/watch?v=A1eTBjxy3KU
